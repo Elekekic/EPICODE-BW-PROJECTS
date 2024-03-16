@@ -62,9 +62,9 @@ Our project is divided into:
 
 | PARTECIPANTI | RUOLI | ACCOUNT GIT | 
 | ----------- |  ----------- | ----------- | 
-| Fabio Scaramozzino | Team leader | ![Static Badge](https://img.shields.io/badge/Faffo96-%233eb752?style=for-the-badge&logo=github) | 
+| Fabio Scaramozzino |  membro gruppo | ![Static Badge](https://img.shields.io/badge/Faffo96-%233eb752?style=for-the-badge&logo=github) | 
 | Ferdinando Di Nocera | membro gruppo |![Static Badge](https://img.shields.io/badge/fdinocera-%23e2940d?style=for-the-badge&logo=github) |
-| Felice Cesarano| membro gruppo |![Static Badge](https://img.shields.io/badge/felicecesarano-%233c4211?style=for-the-badge&logo=github) | 
+| Felice Cesarano| Team leader |![Static Badge](https://img.shields.io/badge/felicecesarano-%233c4211?style=for-the-badge&logo=github) | 
 | Rosa Giordano|  membro gruppo |![Static Badge](https://img.shields.io/badge/Rosannag16-%2323e3ea?style=for-the-badge&logo=github) | 
 | Elena Kekic | membro gruppo | ![Static Badge](https://img.shields.io/badge/Elekekic-%23a30049?style=for-the-badge&logo=github) |
 
