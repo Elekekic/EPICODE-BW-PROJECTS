@@ -1,4 +1,4 @@
-# REPOSITORY FOR BUILD WEEKS!! 
+# REPOSITORY FOR BUILD WEEKS
 
-here there are all the projects for the bild weeks I had
+Here there are all the projects from the build weeks I had
 
