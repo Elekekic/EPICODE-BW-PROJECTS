@@ -1,0 +1,119 @@
+.card {
+    transform: scale(0.95);
+    transition: transform 0.5s ease 0s;
+}
+ .card:hover {
+    transform: scale(1.05);
+ }
+
+ .post-container {
+    padding: 20px;
+}
+.post-card {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+}
+.post-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.post-body {
+    font-size: 16px;
+    color: #555;
+}
+.post-actions {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.btn-edit {
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.btn-more {
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.modal-dialog {
+    max-width: 500px;
+}
+
+
+/* cards */
+
+.card {
+    width: 23%;
+    border-radius: 20px;
+    background: #f5f5f5;
+    position: relative;
+    padding: 1.8rem;
+    border: 2px solid #c3c6ce;
+    transition: 0.5s ease-out;
+    overflow: visible;
+   }
+   
+   .card-details {
+    color: black;
+    height: 100%;
+    gap: .5em;
+    display: grid;
+    place-content: center;
+   }
+   
+   .card-button {
+    transform: translate(-50%, 125%);
+    width: 60%;
+    border-radius: 1rem;
+    border: none;
+    color: #fff;
+    font-size: 1rem;
+    padding: .5rem 1rem;
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    opacity: 0;
+    transition: 0.3s ease-out;
+   }
+   
+   .text-body {
+    color: rgb(134, 134, 134);
+   }
+   
+   /*Text*/
+   .text-title {
+    font-size: 1.5em;
+    font-weight: bold;
+   }
+   
+   /*Hover*/
+   .card:hover {
+    
+    box-shadow: 0 4px 18px 0 rgba(0, 0, 0, 0.25);
+   }
+   
+   .card:hover .card-button {
+    transform: translate(-50%, 50%);
+    opacity: 1;
+   }
+
+   .bi-arrow-right-circle {
+    width: 30px !important;
+    height: 30px !important;
+    color: white !important;
+   }
+
+   #btnSave {
+    position: absolute;
+    bottom: 5%;
+    right: 5%;
+   }
