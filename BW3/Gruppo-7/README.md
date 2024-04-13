@@ -38,7 +38,7 @@
 
  _1. SIGN UP_
  
-![immagine](https://github.com/Elekekic/Gruppo-7/assets/157897660/e3f25774-41dd-4161-b079-e26f26d52b2e)
+![immagine](https://github.com/Elekekic/EPICODE-BW-PROJECTS/assets/157897660/4a2e0e6a-803c-489a-894c-2c3f74bcd128)
 
 <br>
 
@@ -52,15 +52,13 @@ La pagina sign up, dove l'utente si può registrare al nostro sito in modo da po
 <br>
 
  _2. LOGIN_
-
-![immagine](https://github.com/Elekekic/Gruppo-7/assets/157897660/e41fe7c9-8c1f-49d0-8cff-acc8ec5a0bce)
-
-
+ 
+ ![immagine](https://github.com/Elekekic/EPICODE-BW-PROJECTS/assets/157897660/a416ef77-6a01-4657-b728-7d08e606a8d3)
 
 
 La login page, qui una volta che l'utente si è registrato può scegliere anche il colore che avrà il tema del sito.
 
-![immagine](https://github.com/Elekekic/Gruppo-7/assets/157897660/57b55900-07e8-4cc0-ae87-5b73bc8857c4)
+![immagine](https://github.com/Elekekic/EPICODE-BW-PROJECTS/assets/157897660/fd737d52-14d0-41b1-a538-a3ff9b9e0211)
 
 > L'utente potrà sempre cambiare il suo colore al momento del Login
 
@@ -69,16 +67,13 @@ La login page, qui una volta che l'utente si è registrato può scegliere anche 
 
  _3. HOME_
 
-![immagine](https://github.com/Elekekic/Gruppo-7/assets/157897660/79d3fcf4-36ac-4637-b259-c274269c52ac)
-
-
-
+![immagine](https://github.com/Elekekic/EPICODE-BW-PROJECTS/assets/157897660/0435acc6-b2bc-4e00-8ccb-c3b98b0bd36b)
 
 La home page, qui vengono visualizzati tutti i post fatti dagli utenti (sia loggati e sia non loggati)
 
 <br>
 
-![immagine](https://github.com/Elekekic/Gruppo-7/assets/157897660/6840d7c6-28ac-415f-ad66-9bfbdddfae4b)
+![immagine](https://github.com/Elekekic/EPICODE-BW-PROJECTS/assets/157897660/67b277e3-9d88-4911-95b7-e6b905fc1476)
 
 > nella navbar c'è il button "crea post" dove l'utente loggato potrà pubblicare un post. 
 
@@ -87,9 +82,7 @@ La home page, qui vengono visualizzati tutti i post fatti dagli utenti (sia logg
 
  _4. EDIT POST_
 
-![immagine](https://github.com/Elekekic/Gruppo-7/assets/157897660/21f83224-7fe1-4895-a988-5384c410d486)
-
-
+![immagine](https://github.com/Elekekic/EPICODE-BW-PROJECTS/assets/157897660/929826ad-06a0-41dc-9a6e-31c2056d614b)
 
 
 La modale edit post, questa si apre dopo aver cliccato il button edit e permetterà di modificare il post selezionato. 
@@ -102,9 +95,7 @@ La modale edit post, questa si apre dopo aver cliccato il button edit e permette
 
  _5. MORE POST_
 
-![immagine](https://github.com/Elekekic/Gruppo-7/assets/157897660/9f6b8594-3a69-40c9-892c-e431496b9d48)
-
-
+![immagine](https://github.com/Elekekic/EPICODE-BW-PROJECTS/assets/157897660/57bfaeb5-9ab1-432f-976a-9c4f272f536d)
 
 
 La modale more, questa permette di vedere l'intero post (in caso contenesse più di 100 caratteri) in modo da poter leggere tutto
@@ -115,9 +106,7 @@ La modale more, questa permette di vedere l'intero post (in caso contenesse più
 
  _6. USERS LIST_
 
-![immagine](https://github.com/Elekekic/Gruppo-7/assets/157897660/1145148b-d3f3-41b3-ae66-3d43e165bfea)
-
-
+![immagine](https://github.com/Elekekic/EPICODE-BW-PROJECTS/assets/157897660/f418e3c8-13e4-42d2-a2e2-f4edcedf0aab)
 
 
 La modale users, dove si possono vedere tutti gli utenti loggati
@@ -128,9 +117,8 @@ La modale users, dove si possono vedere tutti gli utenti loggati
 
  _7. NOT ADMIN USER_
 
- ![immagine](https://github.com/Elekekic/Gruppo-7/assets/157897660/b1c84644-dfbe-411e-94b5-4ba333746e87)
 
-
+![immagine](https://github.com/Elekekic/EPICODE-BW-PROJECTS/assets/157897660/9bb7f4ef-f103-4627-9450-3417c8518d2c)
 
 
 Questa rappresenta la schermata di chi non ha il ruolo admin ed ha fatto un semplice accesso.
