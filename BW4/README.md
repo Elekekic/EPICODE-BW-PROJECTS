@@ -13,8 +13,7 @@ Progetto Maven generato in Java
 
 
 ### Sono stati utilizzati:
-> ![Static Badge](https://img.shields.io/badge/IntellJ-%238B36DB?style=for-the-badge&logo=intellijidea&logoColor=%238B36DB&labelColor=black) ![Static Badge](https://img.shields.io/badge/excalidraw-%236965DB?style=for-the-badge&logo=excalidraw&labelColor=black) ![Static Badge](https://img.shields.io/badge/JAVA-%23EC2025?style=for-the-badge&logo=jameson&logoColor=%23EC2025&labelColor=black)
-
+> ![Static Badge](https://img.shields.io/badge/JAVA-%23EC2025?style=for-the-badge&logo=jameson&logoColor=%23EC2025&labelColor=black) ![Static Badge](https://img.shields.io/badge/Apache%20Maven-%23A81C7D?style=for-the-badge&logo=apachemaven&logoColor=%23A81C7D&labelColor=black) ![Static Badge](https://img.shields.io/badge/IntellJ-%238B36DB?style=for-the-badge&logo=intellijidea&logoColor=%238B36DB&labelColor=black) ![Static Badge](https://img.shields.io/badge/excalidraw-%236965DB?style=for-the-badge&logo=excalidraw&labelColor=black) 
 
 <br>
 
