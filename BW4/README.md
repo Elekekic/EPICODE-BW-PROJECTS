@@ -17,8 +17,7 @@ Progetto Maven generato in Java
 
 <br>
 
-![Screenshot 2024-05-10 121557](https://github.com/Elekekic/corsocompleto/assets/157897660/705c658b-d091-4803-b6ce-2c314e3616cf)
-
+![Screenshot 2024-05-10 121557](https://github.com/Elekekic/EPICODE-BW-PROJECTS/assets/157897660/5197ef80-658e-434c-b342-914137159441)
 
 ## Collaboratori
 
