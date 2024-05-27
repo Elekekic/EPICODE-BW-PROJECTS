@@ -1,6 +1,8 @@
  <div align = "center">
-<img src="https://github.com/Elekekic/EPICODE-BW-PROJECTS/assets/157897660/b01f8857-3bad-403b-95dc-626cc1fb0215" width="150px">
+<img src="https://github.com/Elekekic/EPICODE-BW-PROJECTS/assets/157897660/0e1c9e1e-e4d6-4479-a8d4-c51168cd8d01" width="400px" />
  </div>
+
+###
 
 <h1> REPOSITORY FOR BUILD WEEKS </h1> 
 
