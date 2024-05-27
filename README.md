@@ -6,11 +6,11 @@
 
 <h1> REPOSITORY FOR BUILD WEEKS </h1> 
 
-### FRONT-END PROJECTS :
+### 🗃️ FRONT-END PROJECTS :
   - **(BW1)** _Benchmark platform from Epicode_
   - **(BW2)** _Copy of Spotify_
   - **(BW3)** _Blog website for CRUD operations (took inspiration from X)_
 
-### BACK-END PROJECTS :
+### 🗃️ BACK-END PROJECTS :
   - **(BW4)** _Management of a public transport company_
   - **incoming...**
