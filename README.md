@@ -3,7 +3,12 @@
 <h1> REPOSITORY FOR BUILD WEEKS </h1> 
  </div>
 
- <div align = "center">
-   Here there are all the projects from the build weeks I had
- </div>
 
+### FRONT-END PROJECTS :
+  - Benchmark platform from Epicode
+  - Copy of Spotify
+  - Blog website for CRUD operations (took inspiration from X)
+
+### BACK-END PROJECTS :
+  - Management of a public transport company
+  - **incoming...**
