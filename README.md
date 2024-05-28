@@ -6,6 +6,9 @@
 
 <h1> REPOSITORY FOR BUILD WEEKS </h1> 
 
+![GitHub last commit](https://img.shields.io/github/last-commit/Elekekic/EPICODE-BW-PROJECTS?color=purple) ![GitHub language count](https://img.shields.io/github/languages/count/Elekekic/EPICODE-BW-PROJECTS?color=blue)
+
+
 ### 🗃️ FRONT-END PROJECTS :
   - **(BW1)** _Benchmark platform from Epicode_
   - **(BW2)** _Copy of Spotify_
