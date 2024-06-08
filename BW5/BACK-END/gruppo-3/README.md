@@ -1,10 +1,4 @@
 
-<div  align="center" >
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Angular_Logo_SVG.svg/2560px-Angular_Logo_SVG.svg.png" width="400" height="100" /> 
-
-  This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.12. 
-</div>
-
 # 🗃️ BACKEND PER UN'AZIENDA DI ENERGIA 
 
 ###
