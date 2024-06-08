@@ -1,0 +1,68 @@
+<div class="d-flex flex-column">
+    <div class="form-container ">
+        <h1 class="display-4 fw-normal mt-4 text-center text-dark"> AGGIUNTA DELLA FATTURA </h1>
+        <div class="container px-5 mx-5">
+            <form class="form px-5" #fatturaForm="ngForm" (ngSubmit)="creaFattura(fatturaForm)">
+                <div class="flex-column">
+                    <label>Data </label>
+                </div>
+                <div class="inputForm">
+                    <input type="date" id="data" required="" name="data" class="input form-control" placeholder="Data fattura" ngModel
+                        required>
+                </div>
+    
+                <div class="flex-column">
+                    <label>Importo</label>
+                </div>
+                <div class="inputForm">
+                    <input type="number" required="" id="importo" name="importo" class="input form-control" placeholder="Importo fattura"
+                        ngModel required>
+                </div>
+    
+                <div class="flex-column">
+                    <label>Stato fattura</label>
+                </div>
+                <div class="inputForm">
+                    <select class="form-select" aria-label="Default select example" ngModel required id="statoFattura"
+                        name="statoFattura" required="">
+                        <option selected> </option>
+                        <option value="NUOVA">Nuova</option>
+                        <option value="IN_LAVORAZIONE">In lavorazione</option>
+                        <option value="IN_SOSPESO">Sospesa</option>
+                        <option value="CHIUSA">Chiusa</option>
+                    </select>
+                </div>
+    
+                <div class="flex-column">
+                    <label>Cliente</label>
+                </div>
+    
+                <div class="inputForm">
+                    <select class="form-select" aria-label="Default select example" ngModel id="clienteId"
+                        name="clienteId" required>
+                        <option selected> </option>
+                        <option value="{{cliente.id}}" *ngFor="let cliente of clienti">{{cliente.ragioneSociale}}</option>
+                    </select>
+                </div>
+                <div class="d-flex justify-content-center mt-4 ,mb-1">
+                   <!--  <button type="submit" [disabled]="fatturaForm.invalid"
+                        class="btn btn-outline-secondary w-50 m-auto" id="liveToastBtn" (click)="showToast()">Crea</button> -->
+                </div>
+                
+                <div class="toast-container position-fixed bottom-0 end-0 p-3">
+                    <div id="liveToast" class="toast" role="alert" aria-live="assertive" aria-atomic="true">
+                      <div class="toast-header">
+                        <strong class="me-auto">Operazione completata!</strong>
+                        <small>adesso</small>
+                        <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+                      </div>
+                      <div class="toast-body">
+                        Fattura creata con successo!
+                      </div>
+                    </div>
+                </div>
+                  
+            </form>
+        </div>
+    </div>
+</div>
