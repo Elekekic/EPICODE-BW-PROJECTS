@@ -9,16 +9,9 @@
 
 ### Sono stati utilizzati 
 
-per il back:
 > ![Static Badge](https://img.shields.io/badge/JAVA-%23EC2025?style=for-the-badge&logo=jameson&logoColor=%23EC2025&labelColor=black) ![Static Badge](https://img.shields.io/badge/Apache%20Maven-%23A81C7D?style=for-the-badge&logo=apachemaven&logoColor=%23A81C7D&labelColor=black) ![Static Badge](https://img.shields.io/badge/IntellJ-%238B36DB?style=for-the-badge&logo=intellijidea&logoColor=%238B36DB&labelColor=black) ![Static Badge](https://img.shields.io/badge/excalidraw-%236965DB?style=for-the-badge&logo=excalidraw&labelColor=black) 
 
-<br> 
-
-per il front: 
-> ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&labelColor=black)  ![Static Badge](https://img.shields.io/badge/SCSS-%23CC6699?style=for-the-badge&logo=SASS&labelColor=black)
-   ![Static Badge](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=Bootstrap&labelColor=black)   ![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&labelColor=black)
-
-<br> 
+<br>
 
 ## Progettazione
 
